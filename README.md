@@ -28,6 +28,7 @@ This guide will walk you through the steps to deploy the E-commerce Micro servic
     ```
 
 ## Step 2: Download the code, build docker image, run container
+sudo yum update -y
 install git using::: sudo yum install git
 1. Clone the repository containing the E-commerce Microservices project:
     ```
